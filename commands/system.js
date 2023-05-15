@@ -253,6 +253,8 @@ cmd({
             pattern: "alive",
             category: "general",
             filename: __filename,
+            caption: ` *QueenRoxi-MD • MADE BY PASINDU RELEASED • 2023/07/29* `,
+
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
@@ -261,15 +263,15 @@ cmd({
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
 ${alivemessage}
-
-*Version:-* _0.0.6_
-*Uptime:-* _${runtime(process.uptime())}_
-*Owner:-* _${Config.ownername}_
-*Branch:-* _${Config.BRANCH}_
-
+_________________________________________________
+[ *Version:-* _0.0.6_                           ]
+[ *Uptime:-* _${runtime(process.uptime())}_     ]
+[ *Owner:-* _${Config.ownername}_               ]
+[ *Branch:-* _${Config.BRANCH}_                 ]
+[_______________________________________________]
 _Type ${prefix}menu for my command list._
 
-_Powered by ${Config.ownername}_
+The Bot Made By Pasindu Sehan 〽️
 `;
             let aliveMessage = {
                 image: {
