@@ -47,12 +47,10 @@
 ●. [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app)
 
 
-## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2016 ]*
-| <a href="https://amdaniwasa.com"><img src="https://avatars.githubusercontent.com/u/83172207?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://avatars.githubusercontent.com/u/89065560?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/saji_x.x_4/"><img src="https://avatars.githubusercontent.com/u/88334967?v=4" width=80 height=80></a> |
+## 🐝 QueenRoxi-MD Team - Pasindu-MD *[ Since 2023 ]*
+| <a href="https://github.com/pasiya3171/QueenRoxi-MD"><img src="https://avatars.githubusercontent.com/u/125533708?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://avatars.githubusercontent.com/u/107849120?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/saji_x.x_4/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a> |
 |---|---|---|
-| **[Pasindu Sehan](https://github.com/pasiya3171)**</br>Founder & Developer</br>*[Pasindu Sehan]* | **[Kaveeshasithum](https://github.com/Kaveeshasithum)**</br>Co-Admin/Developer | **[Lil Luzi](https://github.com/Sajiya2002)**</br>User Supporter |
-| <a href="https://dinaaofficial.github.io/dina-official/"><img src="https://avatars.githubusercontent.com/u/85923514?v=4" width=80 height=80></a> | <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://avatars.githubusercontent.com/u/89117663?v=4" width=80 height=80></a> |  **Kapaya**</br>Group Management | |
-| **[Mr.Dina](https://github.com/Dinaaofficial)**</br>Graphic Designer | **[JokaTamah](https://github.com/JokaTamah)**</br>Bug Tester | **Zeus**</br>Group Management |
+| **[Pasindu Sehan](https://github.com/pasiya3171)**</br>Founder & Developer</br>*[Pasindu Sehan]* | **[Kaveeshasithum](https://github.com/Kaveeshasithum)**</br>Help Owner | **[Prabath Kumara](https://github.com/Sajiya2002)**</br>Help Owner |
  
 
 
