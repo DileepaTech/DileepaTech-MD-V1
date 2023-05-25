@@ -91,7 +91,7 @@ cmd({
         citel.reply(`*Check your Pm ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: Secktor-Support*\n*Group Link:* https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbC`,
+            caption: `*Group Name: Dileepa*\n*Group Link:* https://chat.whatsapp.com/EpengNAXffJ60XaNww1MDJ`,
         });
 
     }
@@ -447,7 +447,7 @@ cmd({
             let ttms = `${userq.xp}` / 8;
             textr += `*🌟Role*: ${role}\n*🟢Exp*: ${userq.xp} / ${Levels.xpFor(
     userq.level + 1
-  )}\n*🏡Level*: ${userq.level}\n*Total Messages:*- ${ttms}`;
+  )}\n*🏡Level*: ${userq.level}\n*Total Messages:*- ${ttms} https://chat.whatsapp.com/EpengNAXffJ60XaNww1MDJ`;
             try {
                 ppuser = await Void.profilePictureUrl(citel.sender, "image");
             } catch {
@@ -475,6 +475,7 @@ cmd({
 *-------------------------------*
 *----● LeaderBoard ● -----*
 *-------------------------------*
+1st Place = Dileepa wa.me/94705674697
 \n\n`
             for (let i = 0; i < fetchlb.length; i++) {
                 const lvpoints = fetchlb[i].level
